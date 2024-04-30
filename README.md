@@ -52,15 +52,14 @@ GPA: **94%**
 
 ## 🌱 Certification
 
-I'm enthusiastic about staying up-to-date with the latest developments in cloud computing, DevOps practices, and emerging technologies. Always eager to learn and explore new challenges.
+** AWS Certified Solutions Architect – Professional**
+  Validation Number: d2a80620a35b4ffb86721154af7a8361
+  Validate At: AWS Certification Verification
 
 ## 📫 Let's Connect
 
 - LinkedIn: [Hari Krishna] (www.linkedin.com/in/hari-devops)
- ** AWS Certified Solutions Architect – Professional**
-  Validation Number: d2a80620a35b4ffb86721154af7a8361
-  Validate At: AWS Certification Verification
-
+ 
 ## 🌐 Online Presence
 
 
