@@ -52,9 +52,9 @@ GPA: **94%**
 
 ## 🌱 Certification
 
-** AWS Certified Solutions Architect – Professional**
-  Validation Number: d2a80620a35b4ffb86721154af7a8361
-  Validate At: AWS Certification Verification
+ **AWS Certified Solutions Architect** – **Professional**
+  **Validation Number**: d2a80620a35b4ffb86721154af7a8361
+  **Validate At**: AWS Certification Verification
 
 ## 📫 Let's Connect
 
