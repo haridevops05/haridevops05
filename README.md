@@ -20,29 +20,50 @@ My unique selling points lie in my ability to bridge the gap between development
 
 ## 🛠️ Projects
 
-### Project 1: [CENTENE]
-   Description of the project and your role in it.
+### Project 1: [CENTENE] Senior DevOps Engineer, 06/2022 to Current 
+•  Developed and maintained CI/CD pipelines in GitLab to streamline continuous build and deployment processes.
+• Implemented automated testing procedures, resulting in 40% decrease in post-deployment bug reports and saving 20 hours per week.
+• Proficient in writing Docker files and managing container deployments for efficient application deployment.
+• Automated release and deployment processes using GitLab pipelines  to enhance efficiency.
+• Led migration of on-premise infrastructure to AWS, optimizing system performance and achieving annual savings of $50k by reducing server downtime by 40%.
+• Managed database instance storage scaling to ensure optimal performance.
+• Executed CI/CD pipelines promptly to address job failures and maintain system reliability.
+• Demonstrated adept troubleshooting skills across Linux, Windows, and basic networking platforms.
+• Utilized Kubernetes components (Pod, Service, Ingress, Volumes, Secrets) for efficient application deployment.
+• Conducted daily health checks on production applications, AWS, and Datadog, optimizing disk storage as necessary.
+• Participated in team projects, demonstrating an ability to work collaboratively and effectively
 
-### Project 2: [Dover pharmaceuticals]
-   Description of the project and your role in it.
+### Project 2: [Dover pharmaceuticals] DevOps Engineer, 05/2020 to 06/2022
+•  Managed code versioning and release processes using GitHub branching and tagging to ensure efficient project management
+• Developed and maintained Jenkins files for seamless continuous integration and deployment
+• Installed and configured Jenkins plugins and slaves to meet project requirements effectively
+• Orchestrated Docker container configurations and managed Docker files for various environments, ensuring consistent deployment practices
+• Demonstrated proficiency in AWS services including VPC, EC2, RDS, EBS,EFS, ALB, Route 53, and Cloud Watch Raised Jira tickets to address SSL certificate expiration for single and
+  multi-tenant environments, ensuring security compliance
+• Facilitated monthly meetings, drafted meeting minutes, and prepared comprehensive documentation to ensure effective communication and project management.
+• Enhanced application performance by optimizing infrastructure configurations based on usage patterns
+
 
 ## 📚 Education
 
-- Bachelor of Computers (B.C.A) in [Krishna University] - 2022, GPA 94%
+**BCA**, [Bachelor of Computer Applications], 03/2019 **K.B.N College**, Krishna University - Vijayawada, AP
+GPA: **94%**
 
-## 🌱 Interests
+
+## 🌱 Certification
 
 I'm enthusiastic about staying up-to-date with the latest developments in cloud computing, DevOps practices, and emerging technologies. Always eager to learn and explore new challenges.
 
 ## 📫 Let's Connect
 
 - LinkedIn: [Hari Krishna] (www.linkedin.com/in/hari-devops)
-- IG: [Your IG Name](link-to-ig)
-- FB: [Your FB Name](link-to-fb)
+ ** AWS Certified Solutions Architect – Professional**
+  Validation Number: d2a80620a35b4ffb86721154af7a8361
+  Validate At: AWS Certification Verification
 
 ## 🌐 Online Presence
 
-- [DevOps AWS with Python](https://devopsgvenkat.blogspot.com/): Share your insights and experiences in tech.
-- [Portfolio Website](link-to-portfolio): Explore more about my work and projects.
+
+- [devopshari.com](link-to-portfolio): Explore more about my work and projects.
 
 
