@@ -33,7 +33,7 @@ My unique selling points lie in my ability to bridge the gap between development
 • Conducted daily health checks on production applications, AWS, and Datadog, optimizing disk storage as necessary.
 • Participated in team projects, demonstrating an ability to work collaboratively and effectively
 
-### Project 2: [Dover pharmaceuticals] DevOps Engineer, 05/2020 to 06/2022
+### Project 2: [Deloitte ] DevOps Engineer, 05/2019 to 06/2022
 •  Managed code versioning and release processes using GitHub branching and tagging to ensure efficient project management
 • Developed and maintained Jenkins files for seamless continuous integration and deployment
 • Installed and configured Jenkins plugins and slaves to meet project requirements effectively
