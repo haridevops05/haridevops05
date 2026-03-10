@@ -41,95 +41,90 @@ GPA: **94%**
 
 - [devopshari.com](link-to-portfolio): Explore more about my work and projects.
 
-🚀 DevOps Projects
-☁️ AWS CI/CD Automation Platform
+## 🚀 DevOps Projects
 
-Tech Stack: AWS, Terraform, Kubernetes (EKS), GitLab CI/CD, Docker, Helm, Prometheus, CloudWatch
+### ☁️ AWS CI/CD Automation Platform
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazon-aws)
+![Terraform](https://img.shields.io/badge/Terraform-IaC-purple?style=for-the-badge&logo=terraform)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-blue?style=for-the-badge&logo=kubernetes)
+![Docker](https://img.shields.io/badge/Docker-Containers-blue?style=for-the-badge&logo=docker)
+![GitLab](https://img.shields.io/badge/GitLab-CI/CD-orange?style=for-the-badge&logo=gitlab)
 
-Overview:
-Designed and implemented a fully automated CI/CD ecosystem using GitLab pipelines and AWS infrastructure.
+🔹 Built a **fully automated CI/CD pipeline** using GitLab CI/CD  
+🔹 Automated AWS infrastructure provisioning using **Terraform modules**  
+🔹 Deployed containerized microservices on **Amazon EKS**  
+🔹 Implemented **Blue-Green deployment strategy**  
+🔹 Integrated **Prometheus + CloudWatch monitoring**
 
-Key Highlights
+---
 
-Automated infrastructure provisioning using Terraform modules
+### 🏥 CenKube – Kubernetes Healthcare Platform
+![AWS](https://img.shields.io/badge/AWS-EKS-orange?style=for-the-badge&logo=amazon-aws)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Microservices-blue?style=for-the-badge&logo=kubernetes)
+![Helm](https://img.shields.io/badge/Helm-PackageManager-blue?style=for-the-badge&logo=helm)
+![Datadog](https://img.shields.io/badge/Datadog-Monitoring-purple?style=for-the-badge&logo=datadog)
+![Terraform](https://img.shields.io/badge/Terraform-IaC-purple?style=for-the-badge&logo=terraform)
 
-Implemented Blue-Green deployment strategy
+🔹 Migrated **monolithic healthcare application to Kubernetes microservices**  
+🔹 Implemented **secure DevSecOps CI/CD pipelines**  
+🔹 Automated infrastructure using **Terraform & Ansible**  
+🔹 Implemented **Datadog monitoring and alerting**  
+🔹 Designed **highly available AWS architecture**
 
-Deployed containerized microservices on Amazon EKS
+## 💼 Experience
 
-Integrated Prometheus & CloudWatch monitoring
+### 🏢 Senior DevOps Engineer – Brillio
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazon-aws)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-blue?style=for-the-badge&logo=kubernetes)
+![Terraform](https://img.shields.io/badge/Terraform-IaC-purple?style=for-the-badge&logo=terraform)
+![GitLab](https://img.shields.io/badge/GitLab-CI/CD-orange?style=for-the-badge&logo=gitlab)
 
-Reduced deployment failures and improved reliability
+📅 Jun 2022 – Present  
 
-🏥 CenKube – Healthcare Kubernetes Migration
+🔹 Architected scalable AWS cloud infrastructure  
+🔹 Built GitLab CI/CD pipelines for multi-environment deployments  
+🔹 Managed Kubernetes workloads on Amazon EKS  
+🔹 Implemented Prometheus and CloudWatch monitoring  
 
-Tech Stack: AWS EKS, GitLab CI/CD, Terraform, Datadog, Helm, Kubernetes
+---
 
-Overview:
-Migrated a large-scale healthcare enterprise application from monolithic VM architecture to microservices-based Kubernetes platform.
+### 🏢 DevOps Engineer – Accenture
 
-Key Highlights
+![AWS](https://img.shields.io/badge/AWS-EKS-orange?style=for-the-badge&logo=amazon-aws)
+![Terraform](https://img.shields.io/badge/Terraform-IaC-purple?style=for-the-badge&logo=terraform)
+![Datadog](https://img.shields.io/badge/Datadog-Monitoring-purple?style=for-the-badge&logo=datadog)
 
-Migrated applications to containerized microservices
+📅 May 2019 – Jun 2022  
 
-Implemented secure DevSecOps pipelines
+🔹 Migrated enterprise platform to Kubernetes microservices  
+🔹 Built DevSecOps pipelines with security scanning  
+🔹 Implemented monitoring using Datadog and CloudWatch  
 
-Built automated rollback & environment promotion pipelines
+## 🎓 Education
 
-Implemented Datadog monitoring and SLA observability
+🎓 **Bachelor of Computer Applications (BCA)**  
 
-Enabled SOC2 compliant cloud infrastructure
+![College](https://img.shields.io/badge/KBN_College-Vijayawada-blue?style=for-the-badge)
 
-💼 Professional Experience
-Senior DevOps Engineer
+📅 2019  
+📊 GPA: **95%**
 
-BRILLIO | Hyderabad | Jun 2022 – Present
+## 📜 Certifications
 
-Architected scalable AWS cloud infrastructure using Terraform and CloudFormation
+![AWS](https://img.shields.io/badge/AWS-Solutions_Architect_Professional-orange?style=for-the-badge&logo=amazon-aws)
 
-Built and optimized GitLab CI/CD pipelines for multi-environment deployments
+✔ AWS Certified Solutions Architect – Professional  
 
-Managed containerized workloads on Kubernetes (EKS) using Helm
+---
 
-Implemented monitoring and alerting using Prometheus and CloudWatch
-
-Implemented OpenShift container orchestration with OLM operators
-
-Strengthened cloud security using IAM, Secrets Manager, and encryption strategies
-
-DevOps Engineer
-
-Accenture | Bengaluru (Remote) | May 2019 – Jun 2022
-
-Migrated legacy applications to Kubernetes microservices architecture
-
-Automated infrastructure using Terraform & Ansible
-
-Built secure DevSecOps CI/CD pipelines
-
-Implemented Datadog and CloudWatch monitoring
-
-Designed highly available AWS architectures with ALB and Auto Scaling
-
-🎓 Education
-
-🎓 Bachelor of Computer Applications (BCA)
-KBN College, Vijayawada, Andhra Pradesh
-📅 2019
-📊 GPA: 95%
-
-📜 Certifications
-
-✔ AWS Certified Solutions Architect – Professional
-Verification ID: d2a80620a35b4ffb86721154af7a8361
+![RedHat](https://img.shields.io/badge/RedHat-OpenShift_Admin-red?style=for-the-badge&logo=redhat)
 
 ✔ Red Hat Certified OpenShift Administrator (EX-280)
-Year: 2025 / 2026
 
-🏅 Awards & Recognition
+## 🏆 Awards & Recognition
 
-🏆 Extra Mile Award – Brillio (Nov 2025)
-Recognized for exceptional CI/CD automation and Kubernetes reliability improvements.
+🏅 **Extra Mile Award – Brillio (2025)**  
+Recognized for CI/CD automation and Kubernetes platform reliability.
 
-🏆 Brillian of the Month – Brillio (Apr 2024)
-Awarded for excellence in cloud infrastructure automation and production stability.
+🏅 **Brillian of the Month – Brillio (2024)**  
+Awarded for excellence in cloud infrastructure automation.
