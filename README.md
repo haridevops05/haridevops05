@@ -20,25 +20,6 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-## 📚 Education
-
-**BCA**, [Bachelor of Computer Applications], 03/2019 **K.B.N College**, Krishna University - Vijayawada, AP
-GPA: **94%**
-
-
-## 🌱 Certification
-
- **AWS Certified Solutions Architect** – **Professional**
-  **Validation Number**: d2a80620a35b4ffb86721154af7a8361
-  **Validate At**: AWS Certification Verification
-
-## 📫 Let's Connect
-
-- LinkedIn: [Hari Krishna] (www.linkedin.com/in/hari-devops)
- 
-## 🌐 Online Presence
-
-
 - [devopshari.com](link-to-portfolio): Explore more about my work and projects.
 
 ## 🚀 DevOps Projects
@@ -128,3 +109,108 @@ Recognized for CI/CD automation and Kubernetes platform reliability.
 
 🏅 **Brillian of the Month – Brillio (2024)**  
 Awarded for excellence in cloud infrastructure automation.
+
+## ☁️ DevOps Architecture (AWS + Kubernetes)
+
+```mermaid
+flowchart LR
+    Dev[Developer] --> Git[GitHub / GitLab Repo]
+
+    Git --> CI[CI Pipeline]
+
+    CI --> Build[Docker Build]
+    Build --> Registry[Container Registry]
+
+    Registry --> Deploy[Kubernetes Deployment]
+
+    Deploy --> EKS[AWS EKS Cluster]
+
+    EKS --> Service[Kubernetes Service]
+    Service --> ALB[AWS Load Balancer]
+
+    ALB --> Users[End Users]
+
+    EKS --> Monitor[Monitoring]
+    Monitor --> Prometheus
+    Monitor --> Grafana
+    Monitor --> CloudWatch
+```
+## ⚙️ Kubernetes Microservices Architecture
+
+```mermaid
+flowchart TD
+
+Users --> ALB[AWS Application Load Balancer]
+
+ALB --> Ingress[Kubernetes Ingress]
+
+Ingress --> ServiceA[Service A]
+Ingress --> ServiceB[Service B]
+Ingress --> ServiceC[Service C]
+
+ServiceA --> PodA[Pods]
+ServiceB --> PodB[Pods]
+ServiceC --> PodC[Pods]
+
+PodA --> DB[(RDS Database)]
+PodB --> Cache[(Redis)]
+PodC --> Queue[(SQS)]
+
+Pods --> Monitor[Prometheus & Grafana]
+Pods --> Logs[CloudWatch Logs]
+```
+## 🚀 DevOps CI/CD Pipeline
+
+```mermaid
+sequenceDiagram
+    participant Dev as Developer
+    participant Git as Git Repository
+    participant CI as CI/CD Pipeline
+    participant Docker as Docker Build
+    participant K8s as Kubernetes Cluster
+    participant Monitor as Monitoring
+
+    Dev->>Git: Push Code
+    Git->>CI: Trigger Pipeline
+    CI->>Docker: Build Container
+    Docker->>K8s: Deploy to Cluster
+    K8s->>Monitor: Send Metrics
+```
+## 🏗️ Enterprise DevOps Architecture
+
+```mermaid
+flowchart LR
+
+Developer --> GitHub
+
+GitHub --> GitLabCI[GitLab CI/CD]
+
+GitLabCI --> BuildStage[Build Stage]
+GitLabCI --> TestStage[Test Stage]
+GitLabCI --> Security[Security Scan]
+
+BuildStage --> DockerHub[Container Registry]
+
+DockerHub --> Kubernetes[EKS Cluster]
+
+Kubernetes --> HelmDeploy[Helm Deployment]
+
+HelmDeploy --> Pods[Application Pods]
+
+Pods --> ServiceMesh[Service Mesh]
+
+ServiceMesh --> LoadBalancer[ALB]
+
+LoadBalancer --> Users
+
+Pods --> Monitoring[Prometheus + Grafana]
+
+Pods --> Logs[CloudWatch + ELK]
+```
+## 🧠 DevOps Expertise
+
+CI/CD → GitLab CI | Jenkins | GitHub Actions  
+Containers → Docker | Kubernetes | OpenShift  
+IaC → Terraform | CloudFormation | Ansible  
+Monitoring → Prometheus | Grafana | Datadog | CloudWatch  
+Cloud → AWS | Azure | GCP
