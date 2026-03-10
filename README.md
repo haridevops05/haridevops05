@@ -41,4 +41,95 @@ GPA: **94%**
 
 - [devopshari.com](link-to-portfolio): Explore more about my work and projects.
 
+🚀 DevOps Projects
+☁️ AWS CI/CD Automation Platform
 
+Tech Stack: AWS, Terraform, Kubernetes (EKS), GitLab CI/CD, Docker, Helm, Prometheus, CloudWatch
+
+Overview:
+Designed and implemented a fully automated CI/CD ecosystem using GitLab pipelines and AWS infrastructure.
+
+Key Highlights
+
+Automated infrastructure provisioning using Terraform modules
+
+Implemented Blue-Green deployment strategy
+
+Deployed containerized microservices on Amazon EKS
+
+Integrated Prometheus & CloudWatch monitoring
+
+Reduced deployment failures and improved reliability
+
+🏥 CenKube – Healthcare Kubernetes Migration
+
+Tech Stack: AWS EKS, GitLab CI/CD, Terraform, Datadog, Helm, Kubernetes
+
+Overview:
+Migrated a large-scale healthcare enterprise application from monolithic VM architecture to microservices-based Kubernetes platform.
+
+Key Highlights
+
+Migrated applications to containerized microservices
+
+Implemented secure DevSecOps pipelines
+
+Built automated rollback & environment promotion pipelines
+
+Implemented Datadog monitoring and SLA observability
+
+Enabled SOC2 compliant cloud infrastructure
+
+💼 Professional Experience
+Senior DevOps Engineer
+
+BRILLIO | Hyderabad | Jun 2022 – Present
+
+Architected scalable AWS cloud infrastructure using Terraform and CloudFormation
+
+Built and optimized GitLab CI/CD pipelines for multi-environment deployments
+
+Managed containerized workloads on Kubernetes (EKS) using Helm
+
+Implemented monitoring and alerting using Prometheus and CloudWatch
+
+Implemented OpenShift container orchestration with OLM operators
+
+Strengthened cloud security using IAM, Secrets Manager, and encryption strategies
+
+DevOps Engineer
+
+Accenture | Bengaluru (Remote) | May 2019 – Jun 2022
+
+Migrated legacy applications to Kubernetes microservices architecture
+
+Automated infrastructure using Terraform & Ansible
+
+Built secure DevSecOps CI/CD pipelines
+
+Implemented Datadog and CloudWatch monitoring
+
+Designed highly available AWS architectures with ALB and Auto Scaling
+
+🎓 Education
+
+🎓 Bachelor of Computer Applications (BCA)
+KBN College, Vijayawada, Andhra Pradesh
+📅 2019
+📊 GPA: 95%
+
+📜 Certifications
+
+✔ AWS Certified Solutions Architect – Professional
+Verification ID: d2a80620a35b4ffb86721154af7a8361
+
+✔ Red Hat Certified OpenShift Administrator (EX-280)
+Year: 2025 / 2026
+
+🏅 Awards & Recognition
+
+🏆 Extra Mile Award – Brillio (Nov 2025)
+Recognized for exceptional CI/CD automation and Kubernetes reliability improvements.
+
+🏆 Brillian of the Month – Brillio (Apr 2024)
+Awarded for excellence in cloud infrastructure automation and production stability.
