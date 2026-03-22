@@ -1,18 +1,66 @@
 # 💫 About Me:
 
-👋 Hi there! I'm **Hari Krishna S** — a Senior DevOps Engineer with 6+ years of experience orchestrating seamless software development lifecycles at **Brillio** and **Accenture**.
+👋 Hi there! Greetings! I'm **Hari Krishna S** — a seasoned DevOps Engineer with a passion for orchestrating seamless software development lifecycles. In my current role as a Senior DevOps Engineer at **BRILLIO**, I lead the charge in crafting CI/CD pipelines using GITLAB and identifying innovative solutions to build and deployment challenges.
 
-I specialize in **AWS cloud architecture**, **Kubernetes orchestration**, **DevSecOps pipelines**, and **GitOps delivery** — building secure, scalable, and production-grade platforms for enterprise workloads.
+My journey is marked by a comprehensive approach to the software development process, ensuring DevOps practices seamlessly integrate into every phase. I am an automation maestro, scripting solutions in Python and Shell to expedite workflows and reduce errors, allowing teams to focus on strategic tasks.
 
-🔐 Security-first mindset | ☁️ Cloud-native expert | 🚀 Automation enthusiast
+My mastery extends to cloud architecture, having implemented solutions on AWS, Azure, and GCP. I specialize in architecting scalable and resilient cloud infrastructures that support agile development practices. As a containerization guru, I leverage Docker and Kubernetes to orchestrate applications, optimizing scalability and resource utilization.
+
+Security is non-negotiable in today's landscape, and I take pride in being a security sentinel, implementing robust measures throughout the DevOps pipeline to ensure the highest standards of security and compliance.
+
+My unique selling points lie in my ability to bridge the gap between development and operations teams, fostering cross-functional collaboration. I am an advocate for continuous learning, staying ahead of industry trends to ensure my skills remain at the forefront of DevOps innovation.
 
 ---
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hari-devops)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/hari-devops)
 [![Portfolio](https://img.shields.io/badge/Portfolio-harikrishna.dev-00f7ff?style=flat&logo=google-chrome&logoColor=white)](https://harikrishna.dev)
-[![GitHub](https://img.shields.io/badge/GitHub-haridevops05-181717?style=flat&logo=github)](https://github.com/haridevops05)
+
+---
+
+## 💻 Tech Stack:
+
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8D375.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)
+![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white)
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD)
+![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
+![Istio](https://img.shields.io/badge/Istio-466BB0?style=for-the-badge&logo=istio&logoColor=white)
+
+---
+
+## 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api?username=haridevops05&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://nirzak-streak-stats.vercel.app/?user=haridevops05&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=haridevops05&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=haridevops05&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
+
+### ✍️ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
@@ -22,6 +70,7 @@ I specialize in **AWS cloud architecture**, **Kubernetes orchestration**, **DevS
 [![RedHat](https://img.shields.io/badge/RedHat-OpenShift_Admin_EX--280-red?style=for-the-badge&logo=redhat&logoColor=white)](https://harikrishna.dev)
 
 ✔ **AWS Certified Solutions Architect – Professional** | Validation: `d2a80620a35b4ffb86721154af7a8361`
+
 ✔ **Red Hat Certified OpenShift Administrator (EX-280)**
 
 ---
@@ -36,120 +85,98 @@ I specialize in **AWS cloud architecture**, **Kubernetes orchestration**, **DevS
 
 ---
 
-## 💻 Tech Stack:
-
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
-![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-
----
-
 ## 🚀 DevOps Projects
 
-### 1️⃣ CI/CD Automation & Scalable AWS Infrastructure
+---
+
+### 1️⃣ ☁️ AWS CI/CD Automation Platform
 > **Brillio | Senior DevOps Engineer | 2022 – Present**
 
-![AWS](https://img.shields.io/badge/AWS-Cloud-orange?style=flat&logo=amazon-aws)
-![Terraform](https://img.shields.io/badge/Terraform-IaC-purple?style=flat&logo=terraform)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-blue?style=flat&logo=kubernetes)
-![GitLab CI](https://img.shields.io/badge/GitLab-CI/CD-orange?style=flat&logo=gitlab)
+[![AWS](https://img.shields.io/badge/AWS-Cloud-orange?style=flat&logo=amazon-aws)](https://github.com/haridevops05)
+[![Terraform](https://img.shields.io/badge/Terraform-IaC-purple?style=flat&logo=terraform)](https://github.com/haridevops05)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-blue?style=flat&logo=kubernetes)](https://github.com/haridevops05)
+[![Docker](https://img.shields.io/badge/Docker-Containers-blue?style=flat&logo=docker)](https://github.com/haridevops05)
+[![GitLab](https://img.shields.io/badge/GitLab-CI/CD-orange?style=flat&logo=gitlab)](https://github.com/haridevops05)
 
-🔹 Designed and provisioned AWS infrastructure using **modular Terraform and CloudFormation** templates
-🔹 Built **GitLab CI/CD and Jenkins pipelines** for automated build, test, image scanning, and deployment
-🔹 Deployed containerized microservices to **Amazon EKS** using Helm charts across multiple environments
-🔹 Implemented observability with **CloudWatch and Prometheus**, reducing MTTR significantly
-🔹 Enabled **Blue-Green deployments** with zero downtime across production environments
+🔹 Built a **fully automated CI/CD pipeline** using GitLab CI/CD
+🔹 Automated AWS infrastructure provisioning using **Terraform modules**
+🔹 Deployed containerized microservices on **Amazon EKS**
+🔹 Implemented **Blue-Green deployment strategy**
+🔹 Integrated **Prometheus + CloudWatch monitoring**
 
-📊 **Result:** ~40% faster release cycles | Improved platform stability & uptime
+📊 **Result:** ~40% faster releases | Improved uptime & stability
 
 ---
 
-### 2️⃣ CenKube – Kubernetes Healthcare Platform
+### 2️⃣ 🏥 CenKube – Kubernetes Healthcare Platform
 > **Accenture | DevOps Engineer | 2019 – 2022**
 
-![AWS EKS](https://img.shields.io/badge/AWS-EKS-orange?style=flat&logo=amazon-aws)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-Microservices-blue?style=flat&logo=kubernetes)
-![Datadog](https://img.shields.io/badge/Datadog-Monitoring-purple?style=flat&logo=datadog)
-![Terraform](https://img.shields.io/badge/Terraform-IaC-purple?style=flat&logo=terraform)
+[![AWS](https://img.shields.io/badge/AWS-EKS-orange?style=flat&logo=amazon-aws)](https://github.com/haridevops05)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-Microservices-blue?style=flat&logo=kubernetes)](https://github.com/haridevops05)
+[![Helm](https://img.shields.io/badge/Helm-PackageManager-blue?style=flat&logo=helm)](https://github.com/haridevops05)
+[![Datadog](https://img.shields.io/badge/Datadog-Monitoring-purple?style=flat&logo=datadog)](https://github.com/haridevops05)
+[![Terraform](https://img.shields.io/badge/Terraform-IaC-purple?style=flat&logo=terraform)](https://github.com/haridevops05)
 
-🔹 Migrated **monolithic healthcare application** to containerized microservices on Amazon EKS
-🔹 Built **GitLab CI/CD pipelines** with rollback, approvals, and environment promotion controls
-🔹 Implemented **IAM, Secrets Manager, and network segmentation** for HIPAA & SOC2 compliance
-🔹 Set up **Datadog + CloudWatch dashboards** to monitor pods, services, and infrastructure health
-🔹 Automated infrastructure with **Terraform & Ansible** — eliminating configuration drift
+🔹 Migrated **monolithic healthcare application to Kubernetes microservices**
+🔹 Implemented **secure DevSecOps CI/CD pipelines**
+🔹 Automated infrastructure using **Terraform & Ansible**
+🔹 Implemented **Datadog monitoring and alerting**
+🔹 Designed **highly available AWS architecture** — SOC2 & HIPAA compliant
 
 📊 **Result:** Significantly increased deployment frequency | More stable & observable platform
 
 ---
 
 ### 3️⃣ 🔐 K8S Runtime Security Platform
-> **Open Source Project** | [View Repository](https://github.com/haridevops05/k8s-runtime-security-platform)
+> **Open Source** | [![View Repo](https://img.shields.io/badge/View_Repo-GitHub-black?style=flat&logo=github)](https://github.com/haridevops05/k8s-runtime-security-platform)
 
-![Falco](https://img.shields.io/badge/Falco-Runtime_Security-blue?style=flat)
-![Kyverno](https://img.shields.io/badge/Kyverno-Policy_Engine-green?style=flat)
-![Kube-Bench](https://img.shields.io/badge/Kube--Bench-CIS_Benchmark-red?style=flat)
-![Trivy](https://img.shields.io/badge/Trivy-Image_Scanning-orange?style=flat)
-![ESO](https://img.shields.io/badge/ESO-External_Secrets-yellow?style=flat)
-![AWS EKS](https://img.shields.io/badge/AWS-EKS-orange?style=flat&logo=amazon-aws)
+[![Falco](https://img.shields.io/badge/Falco-Runtime_Security-blue?style=flat)](https://github.com/haridevops05/k8s-runtime-security-platform)
+[![Kyverno](https://img.shields.io/badge/Kyverno-Policy_Engine-green?style=flat)](https://github.com/haridevops05/k8s-runtime-security-platform)
+[![Kube-Bench](https://img.shields.io/badge/Kube--Bench-CIS_Benchmark-red?style=flat)](https://github.com/haridevops05/k8s-runtime-security-platform)
+[![Trivy](https://img.shields.io/badge/Trivy-Image_Scanning-orange?style=flat)](https://github.com/haridevops05/k8s-runtime-security-platform)
+[![ESO](https://img.shields.io/badge/ESO-External_Secrets-yellow?style=flat)](https://github.com/haridevops05/k8s-runtime-security-platform)
 
-**Production-grade 4-layer Kubernetes security stack for HIPAA & SOC2 compliant workloads.**
-
-🔹 🔍 **Falco** — Runtime threat detection with custom rules: crypto mining, shell spawn, privilege escalation
-🔹 🛡️ **Kyverno** — Admission controller policies: block root containers, enforce resource limits, require labels
-🔹 📋 **Kube-Bench** — Automated CIS Kubernetes Benchmark scanning — achieved **94/100 score**
-🔹 🔑 **External Secrets Operator (ESO)** — Zero hardcoded secrets via AWS Secrets Manager integration
-🔹 🔒 **Trivy** — Container image vulnerability scanning before every deployment
+🔹 🔍 **Falco** — Runtime threat detection: crypto mining, shell spawn & privilege escalation
+🔹 🛡️ **Kyverno** — Admission controller: block root containers & enforce resource limits
+🔹 📋 **Kube-Bench** — CIS Kubernetes Benchmark scanning — **94/100 score**
+🔹 🔑 **External Secrets Operator** — Zero hardcoded secrets via AWS Secrets Manager
+🔹 🔒 **Trivy** — Container image vulnerability scanning in every pipeline
 
 📊 **Result:** 94/100 CIS Score | Zero Critical CVEs | Zero Hardcoded Secrets | HIPAA Compliant
 
 ---
 
 ### 4️⃣ 🕸️ Istio Service Mesh Platform
-> **Open Source Project** | [View Repository](https://github.com/haridevops05/istio-service-mesh-platform)
+> **Open Source** | [![View Repo](https://img.shields.io/badge/View_Repo-GitHub-black?style=flat&logo=github)](https://github.com/haridevops05/istio-service-mesh-platform)
 
-![Istio](https://img.shields.io/badge/Istio-Service_Mesh-blue?style=flat)
-![Kiali](https://img.shields.io/badge/Kiali-Visualization-green?style=flat)
-![Jaeger](https://img.shields.io/badge/Jaeger-Tracing-yellow?style=flat)
-![Prometheus](https://img.shields.io/badge/Prometheus-Metrics-orange?style=flat)
-![AWS EKS](https://img.shields.io/badge/AWS-EKS-orange?style=flat&logo=amazon-aws)
+[![Istio](https://img.shields.io/badge/Istio-Service_Mesh-blue?style=flat)](https://github.com/haridevops05/istio-service-mesh-platform)
+[![Kiali](https://img.shields.io/badge/Kiali-Visualization-green?style=flat)](https://github.com/haridevops05/istio-service-mesh-platform)
+[![Jaeger](https://img.shields.io/badge/Jaeger-Distributed_Tracing-yellow?style=flat)](https://github.com/haridevops05/istio-service-mesh-platform)
+[![Prometheus](https://img.shields.io/badge/Prometheus-Metrics-orange?style=flat)](https://github.com/haridevops05/istio-service-mesh-platform)
 
-**Zero-trust service mesh with advanced traffic management, observability, and chaos engineering.**
-
-🔹 🔐 **mTLS** — Zero-trust encryption between ALL microservices — 100% mesh coverage
-🔹 🚀 **Canary Deployments** — 90/10 traffic splitting with VirtualServices and DestinationRules
+🔹 🔐 **mTLS** — Zero-trust encryption between ALL microservices — 100% coverage
+🔹 🚀 **Canary Deployments** — 90/10 traffic splitting with VirtualServices & DestinationRules
 🔹 ⚡ **Circuit Breaker** — Auto-eject unhealthy pods to prevent cascade failures
-🔹 🧪 **Fault Injection** — Chaos engineering with delay and error injection for resilience testing
-🔹 📊 **Kiali + Jaeger** — Service topology visualization and distributed tracing
+🔹 🧪 **Fault Injection** — Chaos engineering with delay and error injection
+🔹 📊 **Kiali + Jaeger** — Service topology visualization & distributed tracing
 
-📊 **Result:** 100% mTLS Coverage | Zero failed deployments reaching production
+📊 **Result:** 100% mTLS Coverage | Zero failed deployments to production | 15 min MTTR
 
 ---
 
 ### 5️⃣ 🔄 GitOps Platform — ArgoCD + Argo Rollouts
-> **Open Source Project** | [View Repository](https://github.com/haridevops05/gitops-argocd-platform)
+> **Open Source** | [![View Repo](https://img.shields.io/badge/View_Repo-GitHub-black?style=flat&logo=github)](https://github.com/haridevops05/gitops-argocd-platform)
 
-![ArgoCD](https://img.shields.io/badge/ArgoCD-GitOps-orange?style=flat)
-![Argo Rollouts](https://img.shields.io/badge/Argo_Rollouts-Progressive_Delivery-blue?style=flat)
-![GitHub Actions](https://img.shields.io/badge/GitHub-Actions-black?style=flat&logo=github)
-![Helm](https://img.shields.io/badge/Helm-Charts-blue?style=flat)
-![AWS EKS](https://img.shields.io/badge/AWS-EKS-orange?style=flat&logo=amazon-aws)
+[![ArgoCD](https://img.shields.io/badge/ArgoCD-GitOps-orange?style=flat)](https://github.com/haridevops05/gitops-argocd-platform)
+[![Argo Rollouts](https://img.shields.io/badge/Argo_Rollouts-Progressive_Delivery-blue?style=flat)](https://github.com/haridevops05/gitops-argocd-platform)
+[![GitHub Actions](https://img.shields.io/badge/GitHub-Actions-black?style=flat&logo=github)](https://github.com/haridevops05/gitops-argocd-platform)
+[![Helm](https://img.shields.io/badge/Helm-Charts-blue?style=flat)](https://github.com/haridevops05/gitops-argocd-platform)
 
-**Enterprise GitOps platform with progressive delivery and automatic Prometheus-based rollback.**
-
-🔹 🏗️ **App of Apps Pattern** — Single sync deploys all Dev, Staging, and Production clusters
-🔹 📈 **Argo Rollouts** — Canary deployments with Prometheus AnalysisTemplates for auto-rollback
+🔹 🏗️ **App of Apps Pattern** — Single sync deploys Dev, Staging & Production clusters
+🔹 📈 **Argo Rollouts** — Canary with Prometheus AnalysisTemplates for auto-rollback
 🔹 🌐 **Multi-Cluster Management** — Auto-sync Dev/Staging, manual approval for Production
-🔹 ⚡ **Drift Detection** — Auto-remediates manual cluster changes — zero configuration drift
-🔹 🔄 **GitHub Actions → GitOps** — Full CI/CD: build → scan → push ECR → update GitOps repo → ArgoCD sync
+🔹 ⚡ **Drift Detection** — Auto-remediates manual changes — zero configuration drift
+🔹 🔄 **GitHub Actions Pipeline** — Build → Scan → Push ECR → Update GitOps → ArgoCD Sync
 
 📊 **Result:** 15+ deployments/day | 3-min MTTR via auto-rollback | Zero manual deployments
 
@@ -158,65 +185,147 @@ I specialize in **AWS cloud architecture**, **Kubernetes orchestration**, **DevS
 ## 💼 Experience
 
 ### 🏢 Senior DevOps Engineer – Brillio
-📅 **Jun 2022 – Present** | Hyderabad, India
 
-🔹 Architecting scalable AWS cloud infrastructure for microservices at scale
-🔹 Building GitLab CI/CD pipelines for multi-environment deployments
-🔹 Managing Kubernetes workloads on Amazon EKS with KOPS and Helm
-🔹 Implementing Prometheus, Grafana, Datadog and CloudWatch observability
+[![AWS](https://img.shields.io/badge/AWS-Cloud-orange?style=flat&logo=amazon-aws)](https://harikrishna.dev)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-blue?style=flat&logo=kubernetes)](https://harikrishna.dev)
+[![Terraform](https://img.shields.io/badge/Terraform-IaC-purple?style=flat&logo=terraform)](https://harikrishna.dev)
+[![GitLab](https://img.shields.io/badge/GitLab-CI/CD-orange?style=flat&logo=gitlab)](https://harikrishna.dev)
+
+📅 **Jun 2022 – Present**
+
+🔹 Architected scalable AWS cloud infrastructure for microservices at scale
+🔹 Built GitLab CI/CD pipelines for multi-environment deployments
+🔹 Managed Kubernetes workloads on Amazon EKS with KOPS and Helm
+🔹 Implemented Prometheus and CloudWatch monitoring
 
 ---
 
 ### 🏢 DevOps Engineer – Accenture
-📅 **May 2019 – Jun 2022** | Bengaluru, India (Remote)
 
-🔹 Migrated enterprise healthcare platform to Kubernetes microservices on EKS
-🔹 Built DevSecOps pipelines with security scanning and HIPAA compliance
-🔹 Implemented monitoring using Datadog, Prometheus and CloudWatch
+[![AWS](https://img.shields.io/badge/AWS-EKS-orange?style=flat&logo=amazon-aws)](https://harikrishna.dev)
+[![Terraform](https://img.shields.io/badge/Terraform-IaC-purple?style=flat&logo=terraform)](https://harikrishna.dev)
+[![Datadog](https://img.shields.io/badge/Datadog-Monitoring-purple?style=flat&logo=datadog)](https://harikrishna.dev)
+
+📅 **May 2019 – Jun 2022**
+
+🔹 Migrated enterprise platform to Kubernetes microservices
+🔹 Built DevSecOps pipelines with security scanning
+🔹 Implemented monitoring using Datadog and CloudWatch
 
 ---
 
 ## 🎓 Education
 
 🎓 **Bachelor of Computer Applications (BCA)**
-📍 KBN College, Vijayawada | 📅 2019 | 📊 GPA: **95%**
+
+[![College](https://img.shields.io/badge/KBN_College-Vijayawada-blue?style=flat)](https://harikrishna.dev)
+
+📅 2019 | 📊 GPA: **95%**
 
 ---
 
-## 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=haridevops05&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=haridevops05&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=haridevops05&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=haridevops05&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-
-## ☁️ DevOps Architecture
+## ☁️ DevOps Architecture (AWS + Kubernetes)
 
 ```mermaid
 flowchart LR
     Dev[Developer] --> Git[GitHub / GitLab Repo]
-    Git --> CI[CI Pipeline - GitHub Actions / GitLab CI]
-    CI --> Security[Security Scan - Trivy / SonarQube]
-    Security --> Build[Docker Build]
-    Build --> Registry[Amazon ECR]
-    Registry --> ArgoCD[ArgoCD GitOps]
-    ArgoCD --> EKS[AWS EKS Cluster]
-    EKS --> Istio[Istio Service Mesh]
-    Istio --> Services[Microservices]
-    Services --> ALB[AWS Load Balancer]
+    Git --> CI[CI Pipeline]
+    CI --> Build[Docker Build]
+    Build --> Registry[Container Registry]
+    Registry --> Deploy[Kubernetes Deployment]
+    Deploy --> EKS[AWS EKS Cluster]
+    EKS --> Service[Kubernetes Service]
+    Service --> ALB[AWS Load Balancer]
     ALB --> Users[End Users]
-    EKS --> Monitor[Monitoring Stack]
+    EKS --> Monitor[Monitoring]
     Monitor --> Prometheus
     Monitor --> Grafana
-    Monitor --> Datadog
-    EKS --> Security2[Security Stack]
-    Security2 --> Falco
-    Security2 --> Kyverno
+    Monitor --> CloudWatch
+```
+
+---
+
+## ⚙️ Kubernetes Microservices Architecture
+
+```mermaid
+flowchart TD
+    Users --> ALB[AWS Application Load Balancer]
+    ALB --> Ingress[Kubernetes Ingress]
+    Ingress --> ServiceA[Service A]
+    Ingress --> ServiceB[Service B]
+    Ingress --> ServiceC[Service C]
+    ServiceA --> PodA[Pods]
+    ServiceB --> PodB[Pods]
+    ServiceC --> PodC[Pods]
+    PodA --> DB[(RDS Database)]
+    PodB --> Cache[(Redis)]
+    PodC --> Queue[(SQS)]
+    PodA --> Monitor[Prometheus & Grafana]
+    PodB --> Monitor
+    PodC --> Monitor
+    PodA --> Logs[CloudWatch Logs]
+    PodB --> Logs
+    PodC --> Logs
+```
+
+---
+
+## 🚀 DevOps CI/CD Pipeline
+
+```mermaid
+sequenceDiagram
+    participant Dev as Developer
+    participant Git as Git Repository
+    participant CI as CI/CD Pipeline
+    participant Docker as Docker Build
+    participant K8s as Kubernetes Cluster
+    participant Monitor as Monitoring
+
+    Dev->>Git: Push Code
+    Git->>CI: Trigger Pipeline
+    CI->>Docker: Build Container
+    Docker->>K8s: Deploy to Cluster
+    K8s->>Monitor: Send Metrics
+```
+
+---
+
+## 🏗️ Enterprise DevOps Architecture
+
+```mermaid
+flowchart LR
+    Developer --> GitHub
+    GitHub --> GitLabCI[GitLab CI/CD]
+    GitLabCI --> BuildStage[Build Stage]
+    GitLabCI --> TestStage[Test Stage]
+    GitLabCI --> Security[Security Scan]
+    BuildStage --> DockerHub[Container Registry]
+    DockerHub --> Kubernetes[EKS Cluster]
+    Kubernetes --> HelmDeploy[Helm Deployment]
+    HelmDeploy --> Pods[Application Pods]
+    Pods --> ServiceMesh[Istio Service Mesh]
+    ServiceMesh --> LoadBalancer[ALB]
+    LoadBalancer --> Users[End Users]
+    Pods --> Monitoring[Prometheus + Grafana]
+    Pods --> Logs[CloudWatch + ELK]
+    Pods --> GitOps[ArgoCD GitOps]
+```
+
+---
+
+## 🔐 K8S Security Architecture
+
+```mermaid
+flowchart TD
+    CI[CI Pipeline] --> Trivy[Trivy Image Scan]
+    Trivy --> Registry[ECR Container Registry]
+    Registry --> Kyverno[Kyverno Admission Controller]
+    Kyverno --> Pod[Pod Deployment]
+    Pod --> Falco[Falco Runtime Monitor]
+    Falco --> Alert[Slack / PagerDuty Alert]
+    ESO[External Secrets Operator] --> AWS[AWS Secrets Manager]
+    AWS --> Secret[K8S Secret - Zero Hardcoded]
+    KubeBench[Kube-Bench] --> CIS[CIS Benchmark Report 94/100]
 ```
 
 ---
@@ -224,22 +333,16 @@ flowchart LR
 ## 🧠 DevOps Expertise
 
 ```
-CI/CD      → GitLab CI | Jenkins | GitHub Actions | ArgoCD
-Containers → Docker | Kubernetes (EKS, KOPS, AKS) | OpenShift | Helm
-IaC        → Terraform | CloudFormation | Ansible
-Security   → Falco | Kyverno | Kube-Bench | Trivy | ESO | AWS Security Hub
-Service Mesh → Istio | Kiali | Jaeger | Envoy
-Monitoring → Prometheus | Grafana | Datadog | CloudWatch | EFK Stack
-Cloud      → AWS (SA Professional) | Azure | GCP
-GitOps     → ArgoCD | Argo Rollouts | Progressive Delivery
+CI/CD        → GitLab CI | Jenkins | GitHub Actions | ArgoCD
+Containers   → Docker | Kubernetes (EKS, KOPS, AKS) | OpenShift | Helm
+IaC          → Terraform | CloudFormation | Ansible
+Security     → Falco | Kyverno | Kube-Bench | Trivy | ESO | AWS Security Hub
+Service Mesh → Istio | Kiali | Jaeger | Envoy Proxy
+GitOps       → ArgoCD | Argo Rollouts | Progressive Delivery
+Monitoring   → Prometheus | Grafana | Datadog | CloudWatch | EFK Stack
+Cloud        → AWS (SA Professional) | Azure | GCP
 ```
 
 ---
 
-### ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
-*🌐 Portfolio: [harikrishna.dev](https://harikrishna.dev) | 📧 s.harikrishna.1205@gmail.com*
+*🌐 Portfolio: [harikrishna.dev](https://harikrishna.dev) | 📧 s.harikrishna.1205@gmail.com | 📍 Hyderabad, India*
